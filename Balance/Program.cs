@@ -9,6 +9,9 @@ namespace Balance
         {
             BalanseNE balanseNE = new BalanseNE();
             balanseNE.Main();
+
+            //BalanceST balanceST = new BalanceST();
+            //balanceST.Main();
         }
     }
 }
